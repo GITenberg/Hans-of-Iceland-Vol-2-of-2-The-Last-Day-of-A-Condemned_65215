@@ -1,0 +1,26 @@
+_repo: Hans-of-Iceland-Vol-2-of-2-The-Last-Day-of-A-Condemned_65215
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Victor_Hugo
+    - https://fr.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_issued: '2021-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hans of Iceland Vol. 2 of 2; The Last Day of A Condemned
+url: http://www.gutenberg.org/ebooks/65215
