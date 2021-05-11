@@ -1,5 +1,8 @@
 _repo: Hans-of-Iceland-Vol-2-of-2-The-Last-Day-of-A-Condemned_65215
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65215-h/images/cover.jpg
 creator:
   author:
     agent_name: Hugo, Victor
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Victor_Hugo
     - https://fr.wikipedia.org/wiki/Victor_Hugo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65215#Hans-of-Iceland-Vol-2-of-2-The-Last-Day-of-A-Condemned
 gutenberg_issued: '2021-05-01'
 gutenberg_type: Text
 identifiers:
